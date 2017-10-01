@@ -56,7 +56,7 @@ Output
 / /___/ /_/ / / / / / / /_/ / /_/ (__  )  __/ /
 \____/\____/_/ /_/ /_/ .___/\____/____/\___/_/
                     /_/
-Composer version 1.1.1 2017-09-13 04:12:41
+Composer version 1.5.2 2017-09-11 16:59:25
 
 Usage:
   command [options] [arguments]

@@ -1,6 +1,31 @@
 # Simple MVC
 A simple MVC application using pure PHP
 
+```
+.
+└── simple-mvc
+    ├── app
+    │   ├── controllers
+    │   │   ├── contact.php
+    │   │   └── home.php
+    │   ├── core
+    │   │   ├── App.php
+    │   │   └── Controller.php
+    │   ├── database.php
+    │   ├── init.php
+    │   ├── models
+    │   │   └── User.php
+    │   └── views
+    │       └── home
+    │           └── index.php
+    ├── composer.json
+    ├── public
+    │   └── index.php
+    └── README.md
+
+8 directories, 11 files
+```
+
 # Requirements
 
 `php-cli` and `composer`
